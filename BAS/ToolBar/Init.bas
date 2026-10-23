@@ -1,0 +1,18 @@
+Private Sub Init()
+    Subs(0) = "PlotCalc.MainMenu.Plot"
+    Subs(1) = "PlotCalc.MainMenu.Place"
+    Subs(2) = "PlotCalc.MainMenu.Circulation"
+    Subs(3) = "PlotCalc.MainMenu.Perimetr"
+    Subs(4) = "PlotCalc.MainMenu.Square"
+    Subs(5) = "PlotCalc.MainMenu.Labirint"
+    Subs(6) = "PlotCalc.MainMenu.ScaleA3"
+    Subs(7) = "PlotCalc.MainMenu.ScaleA4"
+    Subs(8) = "PlotCalc.MainMenu.ScaleA5"
+    Subs(9) = "PlotCalc.MainMenu.IntersectionSearch"
+    Subs(10) = "PlotCalc.MainMenu.CropBMPsub"
+    Subs(11) = "PlotCalc.MainMenu.TrimCurvesSub"
+    Subs(12) = "PlotCalc.MainMenu.ReGroupShapes"
+    Subs(13) = "PlotCalc.MainMenu.RemoveDuplicate"
+    Subs(14) = "PlotCalc.MainMenu.ConvertToCurves"
+    Subs(15) = "PlotCalc.MainMenu.Settings"
+End Sub
